@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/rocket-nft/static/js/main.35dcaec5.js",
+    "main.js": "/rocket-nft/static/js/main.39021641.js",
     "static/media/banner.png": "/rocket-nft/static/media/banner.92107a2ff0df9e33c0fd.png",
     "static/media/astronauta-4.png": "/rocket-nft/static/media/astronauta-4.b980c33096b601390b31.png",
     "static/media/astronauta-2.png": "/rocket-nft/static/media/astronauta-2.d288161798ba0e4017aa.png",
@@ -31,9 +31,9 @@
     "static/media/arrow-black.svg": "/rocket-nft/static/media/arrow-black.e62c4804b96de7f33e215f649724e977.svg",
     "static/media/arrow-orange.svg": "/rocket-nft/static/media/arrow-orange.10fa7cc14b98001599e68bab87491113.svg",
     "static/media/arrow-white.svg": "/rocket-nft/static/media/arrow-white.235e4df5ed58b2d22e4c2182c519331d.svg",
-    "main.35dcaec5.js.map": "/rocket-nft/static/js/main.35dcaec5.js.map"
+    "main.39021641.js.map": "/rocket-nft/static/js/main.39021641.js.map"
   },
   "entrypoints": [
-    "static/js/main.35dcaec5.js"
+    "static/js/main.39021641.js"
   ]
 }

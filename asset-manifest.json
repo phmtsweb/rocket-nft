@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.js": "/static/js/main.9bae06a0.js",
+    "static/media/banner.png": "/static/media/banner.92107a2ff0df9e33c0fd.png",
+    "static/media/astronauta-4.png": "/static/media/astronauta-4.b980c33096b601390b31.png",
+    "static/media/astronauta-2.png": "/static/media/astronauta-2.d288161798ba0e4017aa.png",
+    "static/media/astronauta-3.png": "/static/media/astronauta-3.75e1ff65945d6382f29c.png",
+    "static/media/astronauta-1.png": "/static/media/astronauta-1.52d1757e9506aad44c7d.png",
+    "static/media/galeria-8.png": "/static/media/galeria-8.60ce0a6f79e4b1ec775d.png",
+    "static/media/galeria-6.png": "/static/media/galeria-6.fd125a7fcee3c844bf5e.png",
+    "static/media/galeria-3.png": "/static/media/galeria-3.9d7e4427bd042869d443.png",
+    "static/media/galeria-7.png": "/static/media/galeria-7.b72304605fa2e5432e81.png",
+    "static/media/galeria-4.png": "/static/media/galeria-4.68e9f6f1ac4916ad102f.png",
+    "static/media/galeria-1.png": "/static/media/galeria-1.27175528efd7dd8862f4.png",
+    "static/media/galeria-2.png": "/static/media/galeria-2.db395c8e41964b2d4afb.png",
+    "static/media/galeria-5.png": "/static/media/galeria-5.72b091f0c4429dffd068.png",
+    "static/media/artista-5.png": "/static/media/artista-5.725757ca92a200b2ef24.png",
+    "static/media/artista-1.png": "/static/media/artista-1.2b4f9cdd2e083df69baf.png",
+    "static/media/artista-3.png": "/static/media/artista-3.71e10216d8bf7f653cfc.png",
+    "static/media/artista-4.png": "/static/media/artista-4.b8761b2c368b8362b66e.png",
+    "static/media/artista-6.png": "/static/media/artista-6.a1bec0794fe73e743478.png",
+    "static/media/artista-2.png": "/static/media/artista-2.0d65d72054729ca8a4c5.png",
+    "static/media/badge.svg": "/static/media/badge.9317cb08ba611832c161fde182160876.svg",
+    "static/media/logo_MetaMask.svg": "/static/media/logo_MetaMask.3910d6adc823242a1fe3f746d066a145.svg",
+    "static/media/logo.svg": "/static/media/logo.9c9e0bac4955941b75406c1101a94f33.svg",
+    "static/media/instagram.svg": "/static/media/instagram.43bd5f3c0277fdbb00f5f953bb52d423.svg",
+    "static/media/youtube.svg": "/static/media/youtube.43467933677241066094277a0860ebdf.svg",
+    "index.html": "/index.html",
+    "static/media/twitter.svg": "/static/media/twitter.d0fe627ace813febadefa8e3792a21ff.svg",
+    "static/media/email.svg": "/static/media/email.51a329c6a8531fa80dca0e689d8b3b44.svg",
+    "static/media/arrow-black.svg": "/static/media/arrow-black.e62c4804b96de7f33e215f649724e977.svg",
+    "static/media/arrow-orange.svg": "/static/media/arrow-orange.10fa7cc14b98001599e68bab87491113.svg",
+    "static/media/arrow-white.svg": "/static/media/arrow-white.235e4df5ed58b2d22e4c2182c519331d.svg",
+    "main.9bae06a0.js.map": "/static/js/main.9bae06a0.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.9bae06a0.js"
+  ]
+}
